@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Hello">
-      <change beforePath="$PROJECT_DIR$/src/BugFighter/A01HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BugFighter/A01HelloWorld.java" afterDir="false" />
+    <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Relational Operators">
+      <change afterPath="$PROJECT_DIR$/src/BugFighter/A08LogicalOperators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +39,56 @@
       <option name="project" value="LOCAL" />
       <updated>1633293650329</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello World!">
+      <created>1633293975339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633293975339</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Variables">
+      <created>1633294013945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633294013945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Variables2">
+      <created>1633294047971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633294047971</updated>
+    </task>
+    <task id="LOCAL-00005" summary="String">
+      <created>1633294104262</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633294104262</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Operators">
+      <created>1633294134780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633294134780</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Arithmetic Operators">
+      <created>1633294166438</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633294166438</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Relational Operators">
+      <created>1633294235026</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633294235026</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -48,6 +104,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
+    <MESSAGE value="Hello World!" />
+    <MESSAGE value="Variables" />
+    <MESSAGE value="Variables2" />
+    <MESSAGE value="String" />
+    <MESSAGE value="Operators" />
+    <MESSAGE value="Arithmetic Operators" />
+    <MESSAGE value="Relational Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Relational Operators" />
   </component>
 </project>
