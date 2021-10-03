@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Scanner">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Else If Statement">
+      <change afterPath="$PROJECT_DIR$/src/BugFighter/A14SwitchCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -116,7 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1633294442316</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="If-Else Statement">
+      <created>1633303464469</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1633303464469</updated>
+    </task>
+    <task id="LOCAL-00014" summary="If-Else Statement">
+      <created>1633303471317</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1633303471317</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Else If Statement">
+      <created>1633303655765</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1633303655765</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +166,8 @@
     <MESSAGE value="Ternary Operators" />
     <MESSAGE value="Assignment Operators" />
     <MESSAGE value="Scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scanner" />
+    <MESSAGE value="If-Else Statement" />
+    <MESSAGE value="Else If Statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Else If Statement" />
   </component>
 </project>
