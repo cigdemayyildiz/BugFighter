@@ -11,7 +11,7 @@ public class A01HelloWorld {
                 "sizlerle birlikte Java "
                 + "ogreniyorum."); // Merhaba ben Cigdem sizlerle birlikte Java ogreniyorum.
         System.out.println(10 + "15"); // 1015
-        System.out.println(10 + 15); // 25
+        System.out.println(10+15); // 25
         System.out.print("Merhaba \nDunya\n"); // Merhaba Dunya(Dunya alt satirda)
         System.out.print("Merhaba Dunya"); // Merhaba DunyaMerhaba 	Dunya
         // print e ln eklemeyince bir alta da ln siz bir print yazarsan ikisini ayni satira aliyor, o satiri o mesaj
