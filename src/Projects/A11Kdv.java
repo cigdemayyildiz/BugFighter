@@ -18,5 +18,6 @@ public class A11Kdv {
         System.out.println("Urunun KDV si: "+tutar*kdv);
         System.out.println("Urunun KDV li fiyati: "+kdvliFiyat);
 
+
     }
 }

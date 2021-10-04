@@ -9,7 +9,7 @@ public class A11NotOrtalamasi {
         // Not Ortalamasi Hesaplayan Program
 
         int quiz, vize, ffinal; // uc tane veri tipi tanimladik
-        double ortalama; // ortalama icin ondalikli bir sayi sonucu cikabilecegi icin double olarak veri tanimladik
+        double ortalama; // ortalama icin ondalikli bir sayi sonucu cikabilecegi icin double olarak veri tanimladik.
 
         Scanner input = new Scanner(System.in); // kullanicidan veri almak icin Scanner sinifini olusturduk
         System.out.print("Quiz notunu giriniz: "); // quiz notunu kullanicidan istedik
