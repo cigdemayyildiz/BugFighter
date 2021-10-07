@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Projects">
-      <change afterPath="$PROJECT_DIR$/src/Projects/A12_A14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projects/A20ArmstrongSayilari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projects/A20AsalSayiBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projects/A20CiftSayilariToplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projects/A20FibonacciSerisi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
