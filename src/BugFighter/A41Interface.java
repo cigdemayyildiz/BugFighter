@@ -44,9 +44,5 @@ interface IWorker {
     // methodlar yeni gelen departman sinifi icerisine override edildiginde yeni gelen departman icin ekstra bir is gucu
     // harcamadan hazir olan yapi icerisine entegre etmek cok kisa ve zahmetsiz oluyor.
 
-
-
-
-
 }
 
