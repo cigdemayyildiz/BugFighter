@@ -123,9 +123,5 @@ public class A39Inheritance {
         // existList() methodu static oldugu icin herhangi bir object olusturmaya ihtiyac duymadan sadece sinif ismi
         // ve method ismi ile cagirabildik.
 
-
-
-
-
     }
 }
