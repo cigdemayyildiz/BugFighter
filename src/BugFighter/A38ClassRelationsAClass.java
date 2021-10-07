@@ -33,6 +33,7 @@ public class A38ClassRelationsAClass {
 
 
     // A sinifinda bir instance variable tanimladik ve bu instance variable imiz B sinifindan d isimli bir object olacak.
-    // Islem basamaklari devam icin A38ClassRelations sinifina gidin --->.
+    // Islem basamaklari devam icin A38ClassRelations sinifina gidin --->
+
 
 }
