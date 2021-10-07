@@ -59,4 +59,6 @@ public class A41Interface2 implements IWorker{ // Bir sinifi bir Interface yapis
         System.out.println("Yemek yendi!");
         return false;
     }
+
+
 }
