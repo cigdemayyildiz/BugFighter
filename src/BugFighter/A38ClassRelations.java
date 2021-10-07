@@ -40,6 +40,7 @@ public class A38ClassRelations {
         // object olan variable i b object sine esitledik. Cunku ekranda B sinifindaki int data tipinde ve value isminde,
         // degeri 1 olan degiskeni gormek istitoruz.
         System.out.print("Composition iliskisinden gelen deger: ");
+
         a.run(a.d); // A sinifindaki run() methodunu calistirmak icin a object si ile run() methodunu cagirdik ve bu
         // method(run() methodu) B sinifindan bir object e ihtiyac duydugu icin, a object si ile A sinifi icinde
         // tanimladigimiz ancak B sinifindan gelen ve adi d olan object i cagirdik. Boylece Java once A sinifi icindeki
