@@ -15,6 +15,6 @@ public class A38ClassRelationsBClass {
     // B sinifindaki value isimli degiskeni ekrana yazdirmasini istedik.
 
     // Islem basamaklarini incelemeye devam etmek icin A38ClassRelations sinifinda Composition = Birlestirme ("has a")
-    // bolumuna gidin --->.
+    // bolumuna gidin --->
 
 }
