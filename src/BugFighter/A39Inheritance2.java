@@ -63,4 +63,5 @@ public class A39Inheritance2 extends A39Inheritance1 { // Alt sinif icinde sinif
         System.out.println(this.name+" "+lastName + " A giris kapisindan giris yapti!");
 
     }
+
 }

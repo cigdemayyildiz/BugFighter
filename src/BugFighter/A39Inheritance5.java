@@ -27,6 +27,6 @@ public class A39Inheritance5 extends A39Inheritance2 {
         // responsibilies, classes --> verileri A39Inheritance2 sinifindan geliyor.
         this.unvan = unvan;
 
-
     }
+
 }

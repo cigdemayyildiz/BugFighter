@@ -47,4 +47,5 @@ public class A39Inheritance3 extends A39Inheritance1 {
         // degisiklik yapmak istiyorsak o da mumkun. A39Inheritance6 sinifina gidiniz --->
         return this.name + " B kapisindan cikis yapti!";
     }
+
 }

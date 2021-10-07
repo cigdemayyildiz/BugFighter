@@ -33,4 +33,5 @@ public class A39Inheritance6 extends A39Inheritance3 {
         // yaptik. Artik A39Inheritance6 sinifi icin exit() methodu digerlerinden farkli olarak bu mesaji
         // 'super.exit() + " Otopark'a yurudu!";' dondurecek.
     }
+
 }

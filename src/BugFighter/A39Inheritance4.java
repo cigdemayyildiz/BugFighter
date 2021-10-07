@@ -28,4 +28,5 @@ public class A39Inheritance4 extends A39Inheritance2 {
         this.yuksekLisans = yuksekLisans;
     }
 
+
 }

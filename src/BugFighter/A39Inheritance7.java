@@ -26,6 +26,6 @@ public class A39Inheritance7 extends A39Inheritance3{
         // workHours --> verileri A39Inheritance3 sinifindan geliyor.
         this.gorev = gorev;
 
-
     }
+
 }
