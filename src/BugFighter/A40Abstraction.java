@@ -32,7 +32,7 @@ public class A40Abstraction {
     mutlaka bu methodlari kendi iclerinde kullanmak zorundadir diyoruz.
 
     Bir ara sinifi abstract yaparken sinif ismi satirinda public ile class keywordlerinin arasina abstract yaziyoruz.
-    public abstract class
+    public abstract class ClassName{}
 
     Sinifi abstract ettikten sonra alt siniflarda ortak olarak kullanilacak olan methodlari da birer birer abstract
     ediyoruz. abstract edilen methodlarin govdelerini bos birakioruz ve ; ile methodu kapatiyoruz. Yani {} parantezlerini
