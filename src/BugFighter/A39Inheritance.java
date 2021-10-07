@@ -33,6 +33,7 @@ public class A39Inheritance {
         System.out.println();
         System.out.println(employee2.exit());
 
+
         System.out.println("***Memur***");
         A39Inheritance3 employee3 = new A39Inheritance3("Sarah","Pink","sarah@gmail.com",
                 "05325505052", "Documentation","40");
@@ -50,6 +51,7 @@ public class A39Inheritance {
         System.out.println();
         System.out.println(employee3.exit());
 
+
         System.out.println("***Asistan***");
         A39Inheritance4 employee4 = new A39Inheritance4("Michelle", "Yellow", "michelle@gmail.com",
                 "05325505053", "Math", "Doc", "Math101", "Yes");
@@ -61,6 +63,7 @@ public class A39Inheritance {
         System.out.print(" "+employee4.getPhoneNumber());
         System.out.println();
         System.out.println(employee4.exit());
+
 
         System.out.println("***Ogretim Uyesi***");
         A39Inheritance5 employee5 = new A39Inheritance5("Alex", "Purple", "alexQgmail.com",
@@ -74,6 +77,7 @@ public class A39Inheritance {
         System.out.println();
         System.out.println(employee5.exit());
 
+
         System.out.println("***Guvenlik Gorevlisi***");
         A39Inheritance6 employee6 = new A39Inheritance6("Erica", "Brown", "erika@gmail.com",
                 "05325505055", "Documentation", "40", "Yes");
@@ -85,6 +89,7 @@ public class A39Inheritance {
         System.out.print(" "+employee6.getPhoneNumber());
         System.out.println();
         System.out.println(employee6.exit());
+
 
         System.out.println("***Bilgi Islem***");
         A39Inheritance7 employee7 = new A39Inheritance7("Afifa", "Green", "afifa@gmail.com",
