@@ -4,6 +4,8 @@ public class A40Abstraction {
 
     // Abstraction = Soyutlama
 
+    // Abstract siniflardan method olusturulamaz, method olusturulmasini istemedigimiz siniflari abstract yapariz.
+
     /*
     Programlamada yapilan projelere gore yapilandirmalar mevcuttur. Bir program yapisinda olusturulan her sinif mutlaka
     kullanilmak zorunda degildir. Yapiyi olusturmak icin bazi siniflara ihtiyac vardir, programin icinde bulunmasi ve
