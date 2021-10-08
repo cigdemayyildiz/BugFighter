@@ -7,7 +7,7 @@ public class A20BreakAndContinue {
     public static void main(String[] args) {
 
         // Break; --> donguyu durdurur
-        // Continue; --> donguyu durdurmaz ma bir sonraki adima gecirir
+        // Continue; --> donguyu durdurmaz ama bir sonraki adima gecirir
 
 
         // Break;
