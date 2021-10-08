@@ -57,13 +57,11 @@ public class A28MultidimensionalArray {
 
         }
 
-
         int [][] list2 = new int [][]{
             {1,75,10},{2,87,13},{3,95,15},{4,103,17}
         };
 
         System.out.println(Arrays.deepToString(list2));
-
 
     }
 }
