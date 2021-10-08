@@ -19,6 +19,7 @@ public class A29ForEach {
             System.out.println(lst);
         }
 
+
         // for loop kullanilarak
         System.out.println("For Loop kullanilarak: ");
         for (int i = 0; i < list.length; i++) {
