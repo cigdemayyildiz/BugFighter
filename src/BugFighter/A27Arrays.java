@@ -63,15 +63,27 @@ public class A27Arrays {
             System.out.println(list3[i]);
         }
 
+        System.out.println();
 
+        Object[] arr = new Object[6];
+        arr[0] = "abc";
+        arr[1] = 12;
+        arr[2] = 'c';
+        arr[3] = true;
+        arr[4] = null;
+        arr[5] = 34.5;
 
+        System.out.println(arr.length); // 6
 
+        System.out.println(Arrays.toString(arr).substring(3)); // Arrays sinifindan toString(); methodu cagirildiginda
+        // bu Array icin String methodlarina ulasabiliyoruz.
 
+        System.out.println(Arrays.asList(arr).size()); // Arrays sinifindan asList(); methodu ile cagirildiginda collection
+        // methodlarina ulasabiliyoruz.
 
-
-
-
-
+        for (Object ar : arr){
+            System.out.println(ar);
+        }
 
     }
 }
