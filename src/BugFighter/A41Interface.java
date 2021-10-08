@@ -10,7 +10,7 @@ interface IWorker {
 
     // Interface yapilarda tipki abstraction da oldugu gibi methodlari bos olarak olusturuyoruz ve Interface' in alt
     // yapilari mevcutsa bu alt yapilarin kendi yapilarina bu methodlari eklemesini istiyoruz. Yani bir nevi Interface
-    // yapinin icinde var olan bit methodu alt bir Interface yapida overriding ediyoruz.
+    // yapinin icinde var olan bir methodu alt bir Interface yapida overriding ediyoruz.
 
     // Interface yapilarin Abstract class lardan farki abstract edilen bir sinif icerisine deger girmeden de instance
     // variabler lar, constructonlar, getter setter methodlari eklenebiliyor ancak Interface sadece tek bir kalip olarak
