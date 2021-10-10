@@ -16,8 +16,7 @@ interface IWorker {
     // variabler lar, constructonlar, getter setter methodlari eklenebiliyor ancak Interface sadece tek bir kalip olarak
     // olusturuluyor, icerisine contructor, getter setter methodlari alamiyor.
 
-    // Abstraction da oldugu gibi Interface den de method olusturulamaz.
-
+    // Abstraction da oldugu gibi Interface den de object olusturulamaz.
 
     // public int id; --> Variable 'id' might not have been initialized. Interface icerisine bos bir alana
     // olusturamiyoruz cunku instance variable disaridan kullanima kapali oldugu icin sonradan reassign edilebilecek
