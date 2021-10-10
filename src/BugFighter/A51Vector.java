@@ -19,7 +19,6 @@ public class A51Vector {
 
         Vector list = new Vector();
 
-
         System.out.println("List vectorunun baslangictan gelen default kapasitesi: "+list.capacity()); // 10
         System.out.println();
 
@@ -42,7 +41,5 @@ public class A51Vector {
         list.forEach(item-> System.out.println(item));
         System.out.println();
         System.out.print("10 element girildikten sonra vectoun kapasitesi: " + list.capacity());
-
-
     }
 }
