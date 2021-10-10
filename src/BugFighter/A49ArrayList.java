@@ -173,7 +173,6 @@ public class A49ArrayList {
         list3.removeAll(list2); // list2 ye ait olan tum elementleri sildi sadece kendine ait olan elementi tuttu
         System.out.println("list3--> "+list3); // [77]
 
-
         list3.add(88);
         list3.add(99);
         System.out.println("list3--> "+list3); // [77, 88, 99]
