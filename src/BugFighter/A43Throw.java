@@ -23,11 +23,12 @@ public class A43Throw {
             throw new ArithmeticException("Bolen sifira esit olamaz!"); // Yeni bir hata olusturduk ve eger bir sayinin
             // bolenini if() icerisinde kontrol ettirmek istersek ve o sayi 0'a esit olursa ekranda bir hata mesaji
             // gorecegiz -->  java.lang.ArithmeticException: Bolen sifira esit olamaz!
-            // ArithmeticException sinifinda parantez icine String deger girmemize izin veren bir constructor oldugu icin
-            // bu degeri girebiliyor. Ayni sekilde sinifta bos bir constructor da olusturulmus oldugu icin bos da
+            // ArithmeticException sinifinda parantez icine String deger girmemize izin veren bir constructor oldugu
+            // icin bu degeri girebiliyor. Ayni sekilde sinifta bos bir constructor da olusturulmus oldugu icin bos da
             // birakabiliyoruz.
         }
-        System.out.println("Kodun devami"); // ve hata aldigimiz icin kodun devami gelmeyecek, kod orada calismayi durduracak.
+        System.out.println("Kodun devami"); // ve hata aldigimiz icin kodun devami gelmeyecek, kod orada calismayi
+                                            // durduracak.
 
     }
 }
