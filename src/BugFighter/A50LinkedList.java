@@ -46,17 +46,15 @@ public class A50LinkedList {
                                                        // kaydirdi.
         System.out.println();
 
-
         list.remove(5);
         list.forEach(item -> System.out.println(item)); // 32'yi aradan silip sonraki elemetleri bir basamak geri cekti.
         System.out.println();
 
-
         System.out.println(list.get(4)); // Orange
         System.out.println();
 
-        // element(); --> listedeki ilk elementi getirir. Bu diger ArrayList ve Vector de yok.
 
+        // element(); --> listedeki ilk elementi getirir. Bu diger ArrayList ve Vector de yok.
         System.out.println(list.element()); // Apple
 
     }
