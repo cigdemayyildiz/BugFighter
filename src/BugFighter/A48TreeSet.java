@@ -13,7 +13,6 @@ public class A48TreeSet {
         // No Null Value
 
         /*
-
         TreeSet syntax;
 
         TreeSet set1 = new TreeSet();
@@ -23,7 +22,6 @@ public class A48TreeSet {
         Set <E> set5 = new TreeSet<>();
         Set <E> set6 = new TreeSet<E>();
         */
-
 
         // TreeSet'te Set olusturuldugunda Set sayisal degerleri olan elementlerde kucukten buyuge, alfabetik degerleri
         // olan elementlerde ise a'dan z'ye seklinde siralaniyor. Her element bir kere girilebiliyor ve TreeSet'te
