@@ -111,6 +111,7 @@ public class A49ArrayList {
         ArrayList <Integer> list4 = new ArrayList<>();
         ArrayList <Double> list5 = new ArrayList<Double>();
 
+
         list2.add(11);
         System.out.println(list2); // [11]
         list2.add(22);
