@@ -78,6 +78,7 @@ public class A47LinkedHashSet {
         // o sira ile gosteriyor
 
 
+
         // [51, 22, 83, 14, null]
         Iterator iter1 = link1.iterator();
         while (iter1.hasNext()){
