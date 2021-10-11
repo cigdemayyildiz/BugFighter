@@ -1,6 +1,6 @@
 package BugFighter;
 
-public class A41Interface2 implements IWorker{ // Bir sinifi bir Interface yapisina alt sinif yapmak, o sinifi bir
+public class A41Interface2 implements IWorker { // Bir sinifi bir Interface yapisina alt sinif yapmak, o sinifi bir
     // Interface yapi ile birbirine iliskilendirmek istiyorsak implements komutunu kullanip artdindan Interface yapi
     // adini giriyoruz. Inheritance larda extends keyword u ile Interface lerdeki implemenets keywordu ayni isi yapiyor.
     // Burada bir sinifi bir Interface yapinin alt sinifi yaptigimizda Interface yapi icerisindeki methodlari birebir
