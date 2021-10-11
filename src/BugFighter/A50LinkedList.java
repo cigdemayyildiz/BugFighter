@@ -46,6 +46,9 @@ public class A50LinkedList {
                                                        // kaydirdi.
         System.out.println();
 
+        System.out.println("**"+list.element());
+        System.out.println();
+
         list.remove(5);
         list.forEach(item -> System.out.println(item)); // 32'yi aradan silip sonraki elemetleri bir basamak geri cekti.
         System.out.println();
