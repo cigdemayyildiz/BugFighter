@@ -10,7 +10,6 @@ public class A37GetterSetter {
     // Polymorphism = Cok Bicimlilik
     // Abstraction = Soyutlama
 
-
     // Book sinifimizin oldugunu varsayalim
     private String name, author, publisher;
     private int numberOfPage; // numberOfPage degiskenini sarmaladik, birincisi degiskeni private yaparak koruma altina
