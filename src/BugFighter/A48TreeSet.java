@@ -68,6 +68,7 @@ public class A48TreeSet {
         //tree1.add(null); // treeSet e null value ekleyemiyorsun
         System.out.println(tree1); // [13, 32, 61, 94] --> ascending order --> kucukten buyuge siraliyor
 
+
         // [13, 32, 61, 94]
         Iterator iter = tree1.iterator();
 
