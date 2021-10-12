@@ -59,6 +59,5 @@ public class A34Static {
 
         System.out.println(A34Static.calculateOverall(grades)); // calculateOverall methodunu grades isimli Array
                                                                 // verileri ile calistir
-
     }
 }
