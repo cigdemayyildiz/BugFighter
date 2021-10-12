@@ -9,6 +9,5 @@ public class A35Final {
     // degiskeni private yapmak sadece o sinifta o degiskene ulasma sansi verdigi icin bu gibi durumlarda final keyword
     // u ile degiskeni sabitlemeyi kullaniyoruz.
 
-
     // KULLANIM ICIN A26Constructor Class'a gidin -->
 }
