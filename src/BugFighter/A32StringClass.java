@@ -29,6 +29,7 @@ public class A32StringClass {
             parantez icine verinin ne kadarlik kismini yazdirmak istiyorsak index numaralari ile mudahale edebiliyoruz
          */
 
+
         String wrd = "JAVA"; // Java'da String diye bir data tipi olmadigi icin, metin olarak yazmak istedigimiz
         // verileri Java'nin kendi icinde var olan String siniflarinda mevcut olan methodlar yardimi ile
         // olusturabiliyoruz. Biz bu sekilde bir String olusturdugumuzda aslinda Java arka planda asagidaki kodlamayi
@@ -37,7 +38,6 @@ public class A32StringClass {
         char[] ch = {'J', 'A', 'V', 'A'};
         String word = new String(ch); // char Array i String'e ceviriyoruz
         System.out.println(word);
-
 
 
         String str = "ISTANBUL";
