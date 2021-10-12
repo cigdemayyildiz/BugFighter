@@ -54,6 +54,7 @@ public class A46HashSet {
         h.add("Texas");
         h.add('H');
 
+
         System.out.println(h); // [null, 100, 2.5, Texas, H, 12, true] --> gordugumuz gibi HashSet elementleri
         // listelerken herhangi bir sirayi takip etmiyor. Bunun nedeni her olusturdugumuz element icin bir HashCode
         // olusturuyor olmasi. Bu HashCode lara gore siralama yapiyor. 12 elementini iki kere eklemis olmamiza ragmen
