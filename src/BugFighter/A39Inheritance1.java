@@ -73,7 +73,8 @@ public class A39Inheritance1 {
     }
 
 
-    /*                                                                           ATA SINIF
+
+    /*                                                                          ATA SINIF
                                                                          ________________________
                                                                         |        Calisan         |
                                                                         | ---------------------- |
