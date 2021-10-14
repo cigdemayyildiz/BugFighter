@@ -50,8 +50,4 @@ public class A33AccessModifiers {
         // ve bu class disindan methodu cagirdigimizda calisti.
         print();
     }
-
-
-
-
 }
