@@ -49,9 +49,6 @@ public class A40Abstraction {
     aldigin derseGir(); methodunu kendi sinifin icinde kullanman gerekiyor diye uyari verecektir.
 
     derseGir(); methodu Akademisyen sinifindan birebir ayni syntax ile gelecegi icin override bir method olacak.
-
-
-
      */
 
 }
