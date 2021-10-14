@@ -9,7 +9,6 @@ public class A20BreakAndContinue {
         // Break; --> donguyu durdurur
         // Continue; --> donguyu durdurmaz ama bir sonraki adima gecirir
 
-
         // Break;
 
         while (true){ // while true oldugu surece govdesindeki kod/mesaj sonsuza kadar doner (infinite loop)
