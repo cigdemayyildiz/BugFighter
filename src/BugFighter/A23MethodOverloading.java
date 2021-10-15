@@ -10,12 +10,12 @@ public class A23MethodOverloading {
         return a + b;
     }
     // add(ind, double)
-    static double add(int a, double b){
+    public static double add(int a, double b){
         System.out.print("From 2nd method: ");
         return a + b;
     }
     // add(int, int, int)
-    static int add(int a, int b, int c){
+    protected static int add(int a, int b, int c){
         System.out.print("From 3rd method: ");
         return a + b + c;
     }
@@ -25,7 +25,7 @@ public class A23MethodOverloading {
         return a + b + c;
     }
     // add(int, double, int)
-    static double add(int a, double b, int c ){
+    private static double add(int a, double b, int c ){
         System.out.print("From 5th method: ");
         return a + b + c;
     }
