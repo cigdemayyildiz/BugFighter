@@ -54,6 +54,5 @@ public class A19NestedForLoop {
         i = 5           /           j = 4
         i = 5           /           j = 5
          */
-        
     }
 }
