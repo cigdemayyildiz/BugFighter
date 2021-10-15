@@ -20,10 +20,5 @@ public class A15Loops {
 
         Tum donguler eger dogru kodlanirsa ayni isi yaparlar.
          */
-
-
-
-
-
     }
 }
