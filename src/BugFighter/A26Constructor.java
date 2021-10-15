@@ -12,7 +12,7 @@ public class A26Constructor {
     // ClassName objectName = new ClassName(){} --> new den sonra gelen ClassName() bize Java'nin otomatik olarak bu
     // methodun kullanilmasinda hata almamamizi saglayan bir contructor olusturdugunu gosteriyor.
 
-    // Instance variable larin ve method larin oldugu class a disardan veri tasiyabilmek icin Consturctor lari kullairiz.
+    // Instance variable larin ve method larin oldugu class a disardan veri tasiyabilmek icin Consturctor lari kullaniriz.
 
 
     public int number1;
