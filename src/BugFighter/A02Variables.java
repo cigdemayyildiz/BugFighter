@@ -36,6 +36,5 @@ public class A02Variables {
             - Mantiksal Degerler
                 boolean (true/false)
          */
-
     }
 }
