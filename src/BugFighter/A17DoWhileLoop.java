@@ -45,10 +45,5 @@ public class A17DoWhileLoop {
         System.out.println("Ucuncu dongu bitti");
 
         System.out.println();
-
-
-
-
-
     }
 }
