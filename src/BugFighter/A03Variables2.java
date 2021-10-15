@@ -9,14 +9,18 @@ public class A03Variables2 {
         System.out.println("abc"); // abc --> tirnak icinde yazarsak bunu sayisal bir deger olarak degil harfsel
         // bir rakam olarak algilayacak
 
+
         short shortDegiskeni = 1000;
         System.out.println("Short degeri: "+shortDegiskeni); // Short degeri: 1000
+
 
         int intDegiskeni = 1_000_000;
         System.out.println("Integer degeri: "+intDegiskeni); // Integer degeri: 1000000
 
+
         long longDegiskeni = 1_000_000_000;
         System.out.println("Long degeri: "+longDegiskeni); // Long degeri: 1000000000
+
 
         float floatDegiskeni = 34.5f;
         float floatDegiskeni2 = 35.1f;
@@ -24,6 +28,7 @@ public class A03Variables2 {
         System.out.println("Float degeri: "+floatDegiskeni); // Float degeri: 34.5
         System.out.println("Float degeri2: "+floatDegiskeni2); // Float degeri2: 35.1
         System.out.println("Float degeri3: "+floatDegiskeni3); // Float degeri3: 36.0
+
 
         double doubleDegeri = 3;
         double doubleDegeri2 = 3.14;
