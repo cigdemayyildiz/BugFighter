@@ -15,7 +15,5 @@ public class A04String {
         // String olarak algiladigi icin bu islemde 15 i yazdiriyor ve arkasindan 20 yi sayi olarak yazdiriyor.
         // Burada aradaki arti(+) isareti String ve Primitive Data Type i birbirine baglamaya calistigi icin toplama
         // islemi olarak kullanilmiyor. Iki veriyi birbirine baglamak olarak kullaniliyor.
-
-
     }
 }
