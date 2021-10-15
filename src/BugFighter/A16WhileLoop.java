@@ -69,11 +69,5 @@ public class A16WhileLoop {
         }
         System.out.println("Besinci dongu bitti");
         // bu dongu kosul saglanmadigi icin calismadi
-
-
-
-
-
-
     }
 }
