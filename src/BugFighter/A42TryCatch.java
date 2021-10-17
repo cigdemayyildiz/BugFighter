@@ -169,6 +169,7 @@ public class A42TryCatch {
         // ozellestirilmis olanlar kendi ozellestirilmis catch leri ile denetlenecek ozellestirilmemiz olanlar da
         // Exception ile denetlenip uygun mesaj ekrana yazdirilacaktir.
 
+
         // finally{} --> try-catch in en sonuna yazilir. Try-catch calistiginda sorun bulsa da bulmasa da yazdirmak
         // istedigimiz mesaj burada gorunur.
 
