@@ -17,7 +17,7 @@ public class A42TryCatch {
 
         /*
 
-        System.out.println("Program baslasi!");
+        System.out.println("Program basladi!");
         int a = 2/0;
         System.out.println(a); // ArithmeticException: / by zero
         System.out.println("Program bitti!"); // kod yazarken eger herhagni bir yerde Exception alirsak kod orada
@@ -25,7 +25,7 @@ public class A42TryCatch {
          */
 
 
-        System.out.println("Program baslasi!"); // Program basliyor
+        System.out.println("Program basladi!"); // Program basliyor
         int b = 0, c = 0, d = 0, f = 0, g = 0, h;
         try { // burada programa govdenin icine yazacagimiz islemin dogru olup olmadigini denemesini soyluyoruz
             b = 2/0; // 2/0 islemi dogru calisacak bir islem olacak mi
