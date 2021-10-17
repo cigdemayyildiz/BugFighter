@@ -46,7 +46,6 @@ public class A42TryCatch {
         // yazdirdik.
         System.out.println();
 
-
         // Genellikle Array de try-catch kullanimi yaygin cunku rezerv edilen alandan daha fazla bir alan icin veri
         // tanimlamasi yapmak yaygin bir davranis
 
