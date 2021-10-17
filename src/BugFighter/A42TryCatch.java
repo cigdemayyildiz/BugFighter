@@ -50,7 +50,6 @@ public class A42TryCatch {
         // tanimlamasi yapmak yaygin bir davranis
 
         /*
-
         System.out.println("Program Array icin basladi!");
         int [] arr = new int[3]; // Array icinde 3 uzunlugunda yer ayirttik
         arr[4] = 10; // ama Array in 4.uzunlugundaki alana veri girmek istiyoruz. Burada alacagimiz hata
