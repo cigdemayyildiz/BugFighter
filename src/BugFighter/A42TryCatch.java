@@ -56,7 +56,6 @@ public class A42TryCatch {
         arr[4] = 10; // ama Array in 4.uzunlugundaki alana veri girmek istiyoruz. Burada alacagimiz hata
                     // ArrayIndexOutOfBoundsException: Create breakpoint: 4
         System.out.println("Program Array icin bitti!");
-
         */
 
         System.out.println("Program Array icin basladi!");
