@@ -38,7 +38,7 @@ public class A38ClassRelations {
 
         a.d = b; // once A sinifina ait a object si ile A sinifindaki d instance variable ini cagirdik ve bu data tipi
         // object olan variable i b object sine esitledik. Cunku ekranda B sinifindaki int data tipinde ve value isminde,
-        // degeri 1 olan degiskeni gormek istitoruz.
+        // degeri 1 olan degiskeni gormek istiyoruz.
         System.out.print("Composition iliskisinden gelen deger: ");
 
         a.run(a.d); // A sinifindaki run() methodunu calistirmak icin a object si ile run() methodunu cagirdik ve bu
