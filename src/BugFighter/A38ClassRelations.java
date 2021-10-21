@@ -33,7 +33,6 @@ public class A38ClassRelations {
         A38ClassRelationsAClass.run(b); // 1
         */
 
-
         // Composition = Birlestirme ("has a")
 
         a.d = b; // once A sinifina ait a object si ile A sinifindaki d instance variable ini cagirdik ve bu data tipi
