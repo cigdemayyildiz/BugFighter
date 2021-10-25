@@ -47,9 +47,5 @@ public class A38ClassRelations {
         // olusturdugumuz B sinifindan gelen, object ismi d olarak tanimlanmis instance variable a ulasti ve bir ust
         // satirda bu instance variable i B sinifi icin olusturulan b object sine esitledigimiz icin B sinifina gidip
         // icindeki int data tipinde ve adi value olan instance varialbe a ulasarak oradaki degeri ekrana yazdirdi.
-
-
-
-
     }
 }
