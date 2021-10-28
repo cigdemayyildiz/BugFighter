@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Projects">
-      <change afterPath="$PROJECT_DIR$/src/Projects/A20ArmstrongSayilari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/A20AsalSayiBulma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/A20CiftSayilariToplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/A20FibonacciSerisi.java" afterDir="false" />
-    </list>
+    <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Class Relations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +172,77 @@
       <option name="project" value="LOCAL" />
       <updated>1633303778892</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Class Relations">
+      <created>1635339984412</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1635339984412</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Class Relations">
+      <created>1635339993395</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635339993395</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Class Relations">
+      <created>1635340003872</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340003872</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Class Relations">
+      <created>1635340009483</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340009483</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Class Relations">
+      <created>1635340015614</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340015614</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Class Relations">
+      <created>1635340021205</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340021205</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Class Relations">
+      <created>1635340025932</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340025932</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Class Relations">
+      <created>1635340031590</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340031590</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Class Relations">
+      <created>1635340036951</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340036951</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Class Relations">
+      <created>1635340041968</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1635340041968</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +274,7 @@
     <MESSAGE value="Else If Statement" />
     <MESSAGE value="Switch Case" />
     <MESSAGE value="Projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projects" />
+    <MESSAGE value="Class Relations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Relations" />
   </component>
 </project>
