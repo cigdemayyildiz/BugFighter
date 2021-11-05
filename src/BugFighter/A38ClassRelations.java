@@ -49,7 +49,8 @@ public class A38ClassRelations {
         // icindeki int data tipinde ve adi value olan instance varialbe a ulasarak oradaki degeri ekrana yazdirdi.
 
 
-        
+
+
 
 
 
