@@ -14,7 +14,6 @@ public class A26Constructor {
 
     // Instance variable larin ve method larin oldugu class a disardan veri tasiyabilmek icin Consturctor lari kullaniriz.
 
-
     public int number1;
     public int number2;
     public String color;
