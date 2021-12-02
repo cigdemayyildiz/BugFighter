@@ -66,7 +66,6 @@ public class A26Constructor {
         System.out.println(m1.multiplication()); // 50
         System.out.println(m1.division()); // 2
 
-
         // eger object parametresi olarak verilen degerlerden birini degistirmek istersek
         m1.number1 = 20; // seklinde number1' i guncelleyebiliriz.
         System.out.println("Parametre guncellendikten sonraki islem hesaplamalari;");
