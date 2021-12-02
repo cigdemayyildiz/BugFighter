@@ -79,10 +79,5 @@ public class A26Constructor {
         System.out.println(A26Constructor.PI); // 3.14 --> variable static oldugu icin object e gerek kalmadan cagirabiliriz.
 
         System.out.println(m1.area(10)); // 314.0 --> PI * Math.pow(r,2); --> 3.14 * 100 = 314.0
-
-
-
-
-
     }
 }
