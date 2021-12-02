@@ -38,6 +38,5 @@ public class A23MethodOverloading {
         System.out.println(add(1,2,3)); // From 3rd method: 6
         System.out.println(add(1,2,3.0)); // From 4th method: 6.0
         System.out.println(add(1,2.0,3)); // From 5th method: 6.0
-
     }
 }
