@@ -25,6 +25,5 @@ public class A10AssignmentOperators {
 
         a%=b; // 35 / 5 = 7 --> 35  5 e kalansiz bolundugu icin kalan sifir
         System.out.println(a); // 0
-
     }
 }
