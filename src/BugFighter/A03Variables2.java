@@ -25,7 +25,6 @@ public class A03Variables2 {
         System.out.println("Float degeri2: "+floatDegiskeni2); // Float degeri2: 35.1
         System.out.println("Float degeri3: "+floatDegiskeni3); // Float degeri3: 36.0
 
-
         double doubleDegeri = 3;
         double doubleDegeri2 = 3.14;
         System.out.println("Double degeri: "+doubleDegeri); // Double degeri: 3.0
