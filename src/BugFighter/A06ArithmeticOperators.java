@@ -39,6 +39,5 @@ public class A06ArithmeticOperators {
         System.out.println(a); // 12 --> a 11 di bir artti 12 oldu
         System.out.println(b); // 3 --> b 4 du bir eksildi 3 oldu
         System.out.println(sonuc2); // 15
-
     }
 }
