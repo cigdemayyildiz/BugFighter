@@ -53,6 +53,5 @@ public class A11Scanner {
         str = input.next(); // next(); de sadece bir kelime girebilirsin, bosluk yaptigin anda bosluktan sonraki
         // kelimeleri dikkate almiyor, sadece ilk kelimeyi yazdiriyor.
         System.out.println(str);
-
     }
 }
