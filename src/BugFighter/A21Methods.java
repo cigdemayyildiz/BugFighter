@@ -19,7 +19,6 @@ public class A21Methods {
 
         // bu methodlarin return typelari void oldugu icin sadece ekranda gostermek icin kullaniliyorlar.
         // Uzerlerinde herhangi bir islem yapilamiyor.
-
     }
 
      static void f(int x){ // method static oldugunda baska bir static method icerisine safece method ismi kullanilarak
