@@ -34,7 +34,6 @@ public class A03Variables2 {
         // istediginde artik ilk tanimlanan degeri goremezsin.
         System.out.println("Double degeri yeni deger: "+doubleDegeri); // Double degeri yeni deger: 54.0
 
-
         char charDegiskeni = 117;
         System.out.println("ASCII table dan 117 sayisina karsilik gelen Char degeri: "+charDegiskeni);
         // ASCII table dan 117 sayisina karsilik gelen Char degeri: u
