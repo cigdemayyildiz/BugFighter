@@ -45,6 +45,5 @@ public class A03Variables2 {
         System.out.println("Boolean degeri: "+booleanDegiskeni); // Boolean degeri: true
         System.out.println("Boolean degeri2 "+booleanDegiskeni2); // Boolean degeri2 false
         // mantiksal degerlerle calisirken, sartlarda, kosullarda, methodlarda cok kullanilan veri tipidir.
-
     }
 }
