@@ -17,7 +17,6 @@ public class A06ArithmeticOperators {
         System.out.println("Bolme: " + bolme); // Bolme: 2
         System.out.println("Mod Alma: " + modAlma); // Mod Alma: 0 --> bolumunden kalan
 
-
         toplama++; // toplama = toplama + 1; anlamina geliyor, degere 1 ekliyor. --> toplama degeri 15 idi.
         System.out.println("Toplama yeni degeri: " + toplama); // Toplama yeni degeri: 16
 
