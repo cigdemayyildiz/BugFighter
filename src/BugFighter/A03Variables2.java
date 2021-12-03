@@ -12,7 +12,6 @@ public class A03Variables2 {
         short shortDegiskeni = 1000;
         System.out.println("Short degeri: "+shortDegiskeni); // Short degeri: 1000
 
-
         int intDegiskeni = 1_000_000;
         System.out.println("Integer degeri: "+intDegiskeni); // Integer degeri: 1000000
 
