@@ -15,7 +15,6 @@ public class A09TernaryOperators {
         boolean kosul = a < b; // a b den kucuk mudur --> true
         boolean kosul2 = a > b; // a b den buyuk mudur --> false
 
-
         String x = kosul ? "Evet" : "Hayir"; // eger kosul(a b den kucuktur) dogru ise "Evet", yanlis ise "Hayir" dondur.
         // String icine store etmemizin nedeni, soru isaretinden sonra gordugun deger tipi ne ise onun icine store etmek
         // zorundasin, eger soru isaretinden sonra integer bir deger olsaydi int icine store etmemiz gerekecekti.
