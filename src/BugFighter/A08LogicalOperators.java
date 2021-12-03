@@ -42,6 +42,5 @@ public class A08LogicalOperators {
         System.out.println(!mantiksal5); // false --> && operatorunde true dondurmesi icin her iki kosulunda da true
         // olmasi gerekiyor, burada her iki kosul true olmasina ragmen false dondurmesinin nedeni mantiksal5 i
         // yazdirirken basina unlem(!) koyulmus olmasi.
-
     }
 }
