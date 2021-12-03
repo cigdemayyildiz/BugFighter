@@ -25,6 +25,5 @@ public class A09TernaryOperators {
         String y = kosul2 ? "Evet" : "Hayir"; // eger kosul (a b den buyuktur) dogru ise "Evet", yanlis ise "Hayir" dondur.
         System.out.println(y); // Hayir --> a b den buyuk degildir, kosul false, bu yuzden kosul yanlis oldugunda : dan
         // sonraki mesaji donduruyor.
-
     }
 }
