@@ -15,7 +15,6 @@ public class A03Variables2 {
         int intDegiskeni = 1_000_000;
         System.out.println("Integer degeri: "+intDegiskeni); // Integer degeri: 1000000
 
-
         long longDegiskeni = 1_000_000_000;
         System.out.println("Long degeri: "+longDegiskeni); // Long degeri: 1000000000
 
