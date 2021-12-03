@@ -34,6 +34,5 @@ public class A07RelationalOperators {
         boolean kosul9 = sayi1 == sayi2; // sayi1 sayi2 ye esit midir
         System.out.println(!kosul9); // true --> sayi1 sayi2 ye esittir ama kosul9 u ekrana yazdirmak istedigimizde
         // basina unlem(!) isareti koydugumuzda bu gordugun sonucun tersini yazdir anlamina geldigi icin true dondurdu.
-
     }
 }
