@@ -40,7 +40,6 @@ public class A03Variables2 {
         char charDegiskeni2 = 'u';
         System.out.println("Char degeri2: "+charDegiskeni2); // Char degeri2: u
 
-
         boolean booleanDegiskeni = true;
         boolean booleanDegiskeni2 = false;
         System.out.println("Boolean degeri: "+booleanDegiskeni); // Boolean degeri: true
