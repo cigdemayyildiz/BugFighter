@@ -18,7 +18,6 @@ public class A03Variables2 {
         long longDegiskeni = 1_000_000_000;
         System.out.println("Long degeri: "+longDegiskeni); // Long degeri: 1000000000
 
-
         float floatDegiskeni = 34.5f;
         float floatDegiskeni2 = 35.1f;
         float floatDegiskeni3 = 36; // ondalikli bir sayi girmesek bile ondalikli sayi olarak print ediyor
