@@ -15,6 +15,5 @@ public class A12IfElseStatement {
             // else komutunu kullanmak icin if den sonra kullanmak gerekir.
             System.out.println("A ve B sayilari birbirine esit degildir.");
         }
-
     }
 }
