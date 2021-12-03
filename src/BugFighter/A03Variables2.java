@@ -9,7 +9,6 @@ public class A03Variables2 {
         System.out.println("abc"); // abc --> tirnak icinde yazarsak bunu sayisal bir deger olarak degil harfsel
         // bir rakam olarak algilayacak
 
-
         short shortDegiskeni = 1000;
         System.out.println("Short degeri: "+shortDegiskeni); // Short degeri: 1000
 
