@@ -40,6 +40,5 @@ public class A21Methods {
         }
         System.out.println("Result: " + result); // for loop disinda gormek istedigimiz mesaji tanimladik. Eger bu
         // printi for loop icine yerlestirseydik, yapilan islemlerin detaylarini ekrana yazdirmis olacaktik.
-
     }
 }
