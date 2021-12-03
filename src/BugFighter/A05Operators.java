@@ -47,6 +47,5 @@ public class A05Operators {
                 - %=    --> Operatorun sagindaki degerin solundakine gore modunu alip tekrar solundaki degere atar.
                         (c %= a) --> c, c nin a moduna esittir.
          */
-
     }
 }
