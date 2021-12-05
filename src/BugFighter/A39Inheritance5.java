@@ -26,7 +26,5 @@ public class A39Inheritance5 extends A39Inheritance2 {
         // geciyor. name, lastName, email, phoneNumber --> verileri A39Inheritance1 sinifindan ve department,
         // responsibilies, classes --> verileri A39Inheritance2 sinifindan geliyor.
         this.unvan = unvan;
-
     }
-
 }
