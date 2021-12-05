@@ -19,8 +19,6 @@ public class A38ClassRelationsAClass {
         // Islem basamaklarini incelemeye devam etmek icin A38ClassRelationsBClass sinifina gidin --->.
     }
 
-
-
     // Composition = Birlestirme (has a)
 
     public A38ClassRelationsBClass d; // B sinifindan d adinda bir nesne tanimladik
@@ -34,6 +32,4 @@ public class A38ClassRelationsAClass {
 
     // A sinifinda bir instance variable tanimladik ve bu instance variable imiz B sinifindan d isimli bir object olacak.
     // Islem basamaklari devam icin A38ClassRelations sinifina gidin --->
-
-
 }
