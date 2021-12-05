@@ -97,7 +97,5 @@ public class A41Interface2 implements IWorker { // Bir sinifi bir Interface yapi
         a.giris();
         a.cikis();
         a.yemekSaati(3);
-
     }
-
 }
