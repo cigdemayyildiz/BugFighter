@@ -21,13 +21,9 @@ public class A24RecursiveMethod {
         return x + r(x - 1); // method icinde kendisini (r(int x)) bir kere daha cagirdi
     }
 
-
     public static void main(String[] args) {
 
         System.out.println(f(5));
         System.out.println(r(5));
-
-
-
     }
 }
