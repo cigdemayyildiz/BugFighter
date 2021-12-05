@@ -22,7 +22,6 @@ public class A19NestedForLoop {
         // noktada donguyu durduruyor.
 
         /*
-
         disaridaki dongu            icerdeki dongu
         i = 1           /           j = 1
         i = 1           /           j = 2
