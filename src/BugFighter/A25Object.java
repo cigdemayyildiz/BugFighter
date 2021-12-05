@@ -57,8 +57,5 @@ public class A25Object {
         machine3.number2 = 2000;
         System.out.println("1st number of Machine3: " + machine3.number1); // 1000
         System.out.println("2nd number of Machine3: " + machine3.number2); // 2000
-
-
-
     }
 }
