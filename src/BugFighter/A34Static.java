@@ -37,7 +37,6 @@ public class A34Static {
     }
 
 
-
     public static void main(String[] args) {
 
         System.out.println("Online ogrenciler: " + A34Static.studentsCount()); // studentCounter methoduna ulasmak icin
