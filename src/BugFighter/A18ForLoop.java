@@ -51,6 +51,5 @@ public class A18ForLoop {
         for (int c=1; c<=5; c++){
             System.out.println(c);
         }
-
     }
 }
