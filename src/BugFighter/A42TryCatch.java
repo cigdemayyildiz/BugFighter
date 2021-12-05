@@ -14,7 +14,6 @@ public class A42TryCatch {
         // Try if() mantigi ile calisiyor, eger hata varsa govdesindeki baska hicbir kodu hicbir mesaji yazdirmayip
         // direk govde disina cikiyor.
 
-
         /*
 
         System.out.println("Program basladi!");
@@ -23,7 +22,6 @@ public class A42TryCatch {
         System.out.println("Program bitti!"); // kod yazarken eger herhagni bir yerde Exception alirsak kod orada
                                              // bitiyor, devam etmiyor.
          */
-
 
         System.out.println("Program basladi!"); // Program basliyor
         int b = 0, c = 0, d = 0, f = 0, g = 0, h;
@@ -172,6 +170,5 @@ public class A42TryCatch {
 
         // finally{} --> try-catch in en sonuna yazilir. Try-catch calistiginda sorun bulsa da bulmasa da yazdirmak
         // istedigimiz mesaj burada gorunur.
-
     }
 }
