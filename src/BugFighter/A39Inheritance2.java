@@ -61,7 +61,5 @@ public class A39Inheritance2 extends A39Inheritance1 { // Alt sinif icinde sinif
         // istedigimiz method bilgilerini tamamen ayni olarak aliyoruz. A39Inheritance2 sinifinda yaptigimiz bu
         //  Method Overriding sadece bu sinif ve bu sinifin alt siniflarinda gecerli olacak.
         System.out.println(this.name+" "+lastName + " A giris kapisindan giris yapti!");
-
     }
-
 }
