@@ -38,14 +38,11 @@ public class A36Encapsulation {
 
     public static void main(String[] args) {
 
-
         A36Encapsulation book1 = new A36Encapsulation("Harry Potter", "Rowling", "Techtorial",
                 400);
 
         System.out.println("book1 object inden cagirilan sayfa sayisi: "+book1.numberOfPage);
         System.out.print("pageNum methodundan gelen sayfa sayisi: ");
         book1.pageNum();
-
-
     }
 }
