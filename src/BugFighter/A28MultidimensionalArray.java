@@ -62,6 +62,5 @@ public class A28MultidimensionalArray {
         };
 
         System.out.println(Arrays.deepToString(list2));
-
     }
 }
