@@ -35,6 +35,5 @@ public class A22MethodsReturn {
         System.out.println("Return type int olan methoddan: " + r); // 100
 
         System.out.println(power2(10,2)); // 100 --> Store etmeden direkt sout icinde de cagirilabiliyor
-
     }
 }
