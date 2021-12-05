@@ -23,15 +23,12 @@ interface IWorker {
     // bir sey olmamali.
     final int id = 0; // instance variable olusturmak istiyorsak deger atayarak olusturabiliriz.
 
-
     final String okul = "Austin Community College"; // final keyword u ile olusturmaliyiz ki bu veri degistirilemesin
                                                     // ama ulasilabilsin.
-
     // methodlar
     public void giris();
     public void cikis();
     public boolean yemekSaati(int saat);
-
 
 
     // Buyuk projelerde bir yapi olusturuldugunda ornegin ana bir yapiya bagli alt departmanlar olacak ve tum bu
@@ -47,6 +44,5 @@ interface IWorker {
     // olarak tanimlanarak o yapi icerisindeki ozellikleri kullanmasina izin veriliyor. Interface yapi icerisindeki
     // methodlar yeni gelen departman sinifi icerisine override edildiginde yeni gelen departman icin ekstra bir is gucu
     // harcamadan hazir olan yapi icerisine entegre etmek cok kisa ve zahmetsiz oluyor.
-
 }
 
