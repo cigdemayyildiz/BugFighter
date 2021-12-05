@@ -33,6 +33,5 @@ public class A14SwitchCase {
                 // 3 karsilastirmalarinin hicbiri ile eslesmiyorsa, hicbir case de true koculu saglanmiyorsa ekrana yazdirmak
                 // istedigimiz mesaji yazdik.
         }
-
     }
 }
