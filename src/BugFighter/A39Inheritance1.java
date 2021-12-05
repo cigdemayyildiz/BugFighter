@@ -117,8 +117,4 @@ public class A39Inheritance1 {
 
 
      */
-
-
-
-
 }
