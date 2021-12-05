@@ -16,5 +16,4 @@ public class A38ClassRelationsBClass {
 
     // Islem basamaklarini incelemeye devam etmek icin A38ClassRelations sinifinda Composition = Birlestirme ("has a")
     // bolumuna gidin --->
-
 }
