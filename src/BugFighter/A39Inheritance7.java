@@ -25,7 +25,5 @@ public class A39Inheritance7 extends A39Inheritance3{
         // geciyor. name, lastName, email, phoneNumber --> verileri A39Inheritance1 sinifindan ve department,
         // workHours --> verileri A39Inheritance3 sinifindan geliyor.
         this.gorev = gorev;
-
     }
-
 }
