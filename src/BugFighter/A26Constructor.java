@@ -42,6 +42,7 @@ public class A26Constructor {
     public double area(int r){
         return A26Constructor.PI * Math.pow(r,2); // r'nin karesini hesaplamak icin Marth.pow() methodunu kullandik
     }
+
     public static void main(String[] args) {
 
         A26Constructor m1 = new A26Constructor(10,5,"Pink");
