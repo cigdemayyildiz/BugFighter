@@ -22,7 +22,4 @@ public class A35Final {
     static int b = 4;
     b = 5; --> you cannot change if you make it static
      */
-
-
-
 }
