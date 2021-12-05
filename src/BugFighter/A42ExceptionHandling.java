@@ -6,6 +6,4 @@ public class A42ExceptionHandling {
     // Try-Catch-Finally
 
     // Exception ile hatalari ayiklayip, Try-Catch-Finally yontemi ile kontrolu saglanir.
-
-
 }
