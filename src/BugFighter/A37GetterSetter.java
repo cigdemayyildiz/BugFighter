@@ -99,9 +99,7 @@ public class A37GetterSetter {
         System.out.println(book2.name); // The Lord of The Rings
 
         System.out.println(book2.getName()); // The Lord of The Rings -->  get methodu ile de ismi cagirabiliriz
-
     }
-
 }
 
 
