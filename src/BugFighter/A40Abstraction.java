@@ -50,5 +50,4 @@ public class A40Abstraction {
 
     derseGir(); methodu Akademisyen sinifindan birebir ayni syntax ile gelecegi icin override bir method olacak.
      */
-
 }
