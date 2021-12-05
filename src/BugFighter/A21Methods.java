@@ -5,7 +5,6 @@ public class A21Methods {
     public static void main(String[] args) {
 
         // Methods = Functions
-
         // f(x) = (x + 2) * 6
 
         // f methodunun main method icine cagrilmasi
