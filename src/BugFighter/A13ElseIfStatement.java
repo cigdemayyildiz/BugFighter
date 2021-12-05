@@ -41,6 +41,5 @@ public class A13ElseIfStatement {
             if (a == 10){
                 System.out.println("A esittir 10'a.");
             }
-
     }
 }
