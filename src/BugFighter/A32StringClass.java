@@ -29,7 +29,6 @@ public class A32StringClass {
             parantez icine verinin ne kadarlik kismini yazdirmak istiyorsak index numaralari ile mudahale edebiliyoruz
          */
 
-
         String wrd = "JAVA"; // Java'da String diye bir data tipi olmadigi icin, metin olarak yazmak istedigimiz
         // verileri Java'nin kendi icinde var olan String siniflarinda mevcut olan methodlar yardimi ile
         // olusturabiliyoruz. Biz bu sekilde bir String olusturdugumuzda aslinda Java arka planda asagidaki kodlamayi
@@ -38,7 +37,6 @@ public class A32StringClass {
         char[] ch = {'J', 'A', 'V', 'A'};
         String word = new String(ch); // char Array i String'e ceviriyoruz
         System.out.println(word);
-
 
         String str = "ISTANBUL";
         System.out.println(str.length()); // 8
@@ -58,8 +56,5 @@ public class A32StringClass {
         System.out.println(str.trim()); // eger datanin basinda ve sonunda bosluklar varsa onlari siliyor
         System.out.println(str.substring(1)); // STANBUL --> 1.index den sonrasini yazdiriyor
         System.out.println(str.substring(0,4)); // ISTA --> 0.index'den baslayip 4.index e kadar olan kismi yazdiriyor
-
-
     }
-
 }
