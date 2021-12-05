@@ -20,6 +20,5 @@ public class A30ForEachMultidimensionalArray {
             }
             System.out.println();
         }
-
     }
 }
