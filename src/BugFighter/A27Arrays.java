@@ -84,6 +84,5 @@ public class A27Arrays {
         for (Object ar : arr){
             System.out.println(ar);
         }
-
     }
 }
