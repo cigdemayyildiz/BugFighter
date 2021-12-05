@@ -27,6 +27,4 @@ public class A39Inheritance4 extends A39Inheritance2 {
         // responsibilies, classes --> verileri A39Inheritance2 sinifindan geliyor.
         this.yuksekLisans = yuksekLisans;
     }
-
-
 }
