@@ -18,7 +18,6 @@ public class A20BreakAndContinue {
 
         Scanner input = new Scanner(System.in);
 
-
         while (true){
             System.out.print("Donguyu durdurmak icin dogru sayiyi giriniz: ");
             int sayi = input.nextInt();
