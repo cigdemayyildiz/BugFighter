@@ -29,6 +29,5 @@ public class A43Throw {
         }
         System.out.println("Kodun devami"); // ve hata aldigimiz icin kodun devami gelmeyecek, kod orada calismayi
                                             // durduracak.
-
     }
 }
