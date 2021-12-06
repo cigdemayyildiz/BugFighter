@@ -217,6 +217,5 @@ public class A46HashSet {
         System.out.println("This is new ArrayList from set: "+list);
                                                         // This is new ArrayList from set: [tomato, lettuce, carrot]
         System.out.println();
-
     }
 }
