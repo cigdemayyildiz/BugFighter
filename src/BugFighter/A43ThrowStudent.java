@@ -30,8 +30,5 @@ public class A43ThrowStudent {
     public static void main(String[] args) throws A43ThrowStudentException {
         A43ThrowStudent s = new A43ThrowStudent();
         s.find("1232");
-
-
     }
-
 }
