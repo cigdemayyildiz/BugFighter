@@ -127,7 +127,6 @@ public class A49ArrayList {
 
 
         // size(); --> checking size of ArrayList
-
         int sizeOfList2 = list2.size();
         System.out.println(sizeOfList2); // 5
 
@@ -141,7 +140,6 @@ public class A49ArrayList {
 
 
         // get(); --> getting which element you want from the ArrayList
-
         System.out.println(list2.get(3)); // white --> get(); methodu index 3 u cagiriyor
 
         // System.out.println(list2.get(10)); // IndexOutOfBoundsException: Index: 10, Size: 6
@@ -150,7 +148,6 @@ public class A49ArrayList {
 
 
         // remove(); --> deleting the elements
-
         list2.remove("white");
         System.out.println(list2); // [11, 22, 44, 11, 55]
         list2.remove(1);
@@ -162,7 +159,6 @@ public class A49ArrayList {
 
 
         // addAll(); --> you can add a whole collection to the ArrayList
-
         list3.addAll(list2); // list2 icindeki her seyi ekle list3'e ekle
         System.out.println("list3--> "+list3); // [11, 44, 11]
         list3.add(77);
@@ -170,7 +166,6 @@ public class A49ArrayList {
 
 
         // removeAll(); --> you can remove a whole collection from to the ArrayList
-
         list3.removeAll(list2); // list2 ye ait olan tum elementleri sildi sadece kendine ait olan elementi tuttu
         System.out.println("list3--> "+list3); // [77]
 
@@ -180,13 +175,11 @@ public class A49ArrayList {
 
 
         // set(); --> updating elements
-
         list3.set(2,100); // 2 index numarali element i virgulden sonra yazdigim element ile degistir
         System.out.println(list3); // [77, 88, 100] --> 99 yerine 100 yazdi
 
 
         // you can use String methods --> String icin kullandigin methodlari kullanabilirsin
-
         System.out.println(list3.contains(88)); // true
 
         System.out.println(list3.get(0).toString().startsWith("x")); // false
@@ -199,10 +192,8 @@ public class A49ArrayList {
 
 
         // clear();
-
         list3.clear();
         System.out.println(list3); // []
         System.out.println(list3.size()); // 0
-
     }
 }
