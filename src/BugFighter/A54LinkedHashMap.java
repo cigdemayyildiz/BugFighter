@@ -30,12 +30,5 @@ public class A54LinkedHashMap {
             Map.Entry item = (Map.Entry) itr.next();
             System.out.println(item.getKey() + " --> " + item.getValue());
         }
-
-
-
-
-
-
-
     }
 }
