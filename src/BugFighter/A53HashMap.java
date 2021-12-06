@@ -11,7 +11,6 @@ public class A53HashMap {
 
         // HashMap
 
-
         HashMap b = new HashMap(); // HashMap sinifindan b adinda bir object olusturduk. Object ne idi; tanimlanan
         // object isminin basindaki sinifin methodlarina ulasabilmek icin bir yardimci, o siniflara girmek icin birer
         // anahtar.
@@ -74,7 +73,6 @@ public class A53HashMap {
         System.out.println(b.get("Turkiye")); // Ankara
         System.out.println();
 
-
         HashMap<Integer, String> c = new HashMap<>(); // Map iki ayri generic aliyor
         c.put(01, "Adana");
         c.put(06, "Ankara");
@@ -89,11 +87,5 @@ public class A53HashMap {
         for (String value : c.values()){
             System.out.println("Value: " + value);
         }
-
-
-
-
-
-
     }
 }
