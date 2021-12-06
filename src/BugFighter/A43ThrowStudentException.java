@@ -17,6 +17,4 @@ public class A43ThrowStudentException extends Exception{ // Kendimize ait Except
     // Bundan sonra A43ThrowStudent sinifinda ne zaman bir kontrol ve sonrasinda hata olup olmadigini ayiklama ve varsa
     // olusturdugumuz hata kodlarini ekrana yazdirma ihtiyaci duyarsak bu siniftaki olusturdugumuz kodlar bize
     // referans olacak. Bu sinif da Exception sinfina tabii olacak.
-
-
 }
