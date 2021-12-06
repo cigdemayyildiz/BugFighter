@@ -28,7 +28,6 @@ public class A48TreeSet {
         // HashSet ve LinkedHashSet'ten farkli olarak null value girisi yapilamiyor. Diger butun ozellikler ayni.
 
 
-
         TreeSet t = new TreeSet();
 
         t.add(90);
@@ -75,6 +74,5 @@ public class A48TreeSet {
         while (iter.hasNext()){
             System.out.println(iter.next()); // 13, 32, 61, 94
         }
-
     }
 }
