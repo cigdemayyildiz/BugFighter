@@ -59,6 +59,5 @@ public class A50LinkedList {
 
         // element(); --> listedeki ilk elementi getirir. Bu diger ArrayList ve Vector de yok.
         System.out.println(list.element()); // Apple
-
     }
 }
