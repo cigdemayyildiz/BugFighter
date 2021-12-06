@@ -22,6 +22,7 @@ public class A51Vector {
         System.out.println("List vectorunun baslangictan gelen default kapasitesi: "+list.capacity()); // 10
         System.out.println();
 
+
         list.add(54);
         list.add(99);
         list.add(27);
