@@ -28,10 +28,8 @@ public class A47LinkedHashSet {
         */
 
 
-
         // LinkedHashSet'te Set giris sirasi ne ise o sirada olusturuyor. HashSet'te oldugu gibi LinkedHashSet'te
         // null value kabul ediyor. Bir elementten birden fazla giris yapamiyoruz. Diger butun ozellikler ayni.
-
 
 
         LinkedHashSet days = new LinkedHashSet();
@@ -78,13 +76,10 @@ public class A47LinkedHashSet {
         // o sira ile gosteriyor
 
 
-
         // [51, 22, 83, 14, null]
         Iterator iter1 = link1.iterator();
         while (iter1.hasNext()){
             System.out.println(iter1.next()); // 51, 22, 83, 14, null
         }
-
-
     }
 }
