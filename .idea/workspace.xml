@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23847841-77d7-4a82-97c8-012c9cbf2623" name="Default Changelist" comment="Class Relations">
-      <change afterPath="$PROJECT_DIR$/src/deneme/calisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deneme/insan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deneme/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BugFighter/A38ClassRelations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BugFighter/A38ClassRelations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
