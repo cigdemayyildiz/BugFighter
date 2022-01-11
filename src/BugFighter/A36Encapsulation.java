@@ -12,6 +12,7 @@ public class A36Encapsulation {
 
     // Book sinifimizin oldugunu varsayalim
     public String name, author, publisher;
+
     private int numberOfPage; // numberOfPage degiskenini sarmaladik, birincisi degiskeni private yaparak koruma altina
     // aldik, uzerine bir katman koyduk. Constructor icinde guvenligi biraz daha artirip sayfa sayisinin yanlis girilmesi
     // halinde gereken duzenlemeleri yaptik ve sonrasinda pageNum adinda bir methodla disaridan goruntulenebilmesine
