@@ -35,7 +35,6 @@ public class A36Encapsulation {
         System.out.println(numberOfPage);
     }
 
-
     public static void main(String[] args) {
 
         A36Encapsulation book1 = new A36Encapsulation("Harry Potter", "Rowling", "Techtorial",
