@@ -11,7 +11,6 @@ public class A36Encapsulation {
     // Abstraction = Soyutlama
 
 
-
     // Book sinifimizin oldugunu varsayalim
     public String name, author, publisher;
     private int numberOfPage; // numberOfPage degiskenini sarmaladik, birincisi degiskeni private yaparak koruma altina
