@@ -32,5 +32,6 @@ public class A31MathClass {
         System.out.println(Math.round(3.4)); // yakin olan tam sayiyi verdi
         System.out.println(Math.abs(-1)); // mutlak degerini aldi
         System.out.println(Math.sqrt(16)); // karekok alma
+
     }
 }
