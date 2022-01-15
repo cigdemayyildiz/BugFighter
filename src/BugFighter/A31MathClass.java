@@ -36,7 +36,9 @@ public class A31MathClass {
         // birinci cakisma
 
         // ikinci cakisma
-        
+
+        // ucuncu cakisma
+
         // dorduncu cakisma
     }
 }
