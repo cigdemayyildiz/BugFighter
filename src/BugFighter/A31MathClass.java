@@ -48,5 +48,7 @@ public class A31MathClass {
         // yedinci cakisma
 
         // sekizinci cakisma
+
+        // onuncu cakisma
     }
 }
