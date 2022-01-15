@@ -41,6 +41,6 @@ public class A31MathClass {
 
         // dorduncu cakisma
         
-        // altinc cakisma
+        // altinci cakisma
     }
 }
