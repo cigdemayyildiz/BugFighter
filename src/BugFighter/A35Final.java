@@ -11,7 +11,6 @@ public class A35Final {
 
     // KULLANIM ICIN A26Constructor Class'a gidin -->
 
-
     /*
     final int a = 5;
     a = 6; --> you cannot change if you make it final
